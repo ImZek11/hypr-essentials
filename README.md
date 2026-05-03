@@ -59,6 +59,7 @@ To ensure a functional "out-of-the-box" experience, the installer includes:
 - **Kitty:** The default terminal.
 - **Waybar:** For a clean status bar.
 - **Noto Fonts:** Standard, Emoji, and CJK support.
+- **Polkit GNOME:** Authentication agent for elevated privileges (essential for Nautilus).
 - **XDG Portals:** For screen sharing and compatibility.
 - **Nautilus:** The intuitive GNOME file manager.
 - **Neovim:** A powerful, extensible text editor.
