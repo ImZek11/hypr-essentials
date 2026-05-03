@@ -60,6 +60,8 @@ To ensure a functional "out-of-the-box" experience, the installer includes:
 - **Waybar:** For a clean status bar.
 - **Noto Fonts:** Standard, Emoji, and CJK support.
 - **XDG Portals:** For screen sharing and compatibility.
+- **Nautilus:** The intuitive GNOME file manager.
+- **Neovim:** A powerful, extensible text editor.
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
