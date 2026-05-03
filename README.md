@@ -39,7 +39,7 @@ hypr/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ImZek11/hypr-essentials.git
    cd hypr-essentials
    ```
 
